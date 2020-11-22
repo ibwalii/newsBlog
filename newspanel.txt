@@ -1,0 +1,13 @@
+<div id="31" style="display:none;">
+          <h5>COLLECTION OF STATIONERIES-AFIT INSTRUCTORS</h5>
+          <hr>
+          <p class="pull-right">4-May-2017</p>
+          <br>
+          <p>
+          All intructors are to go to FADEMS office in person for colletion of batch A stationeries on Friday 5th May 17 by 0800hrs. This is general awareness.
+          <p class="pull-right">
+          Signed By<br>
+          <strong>AU Ahmed</strong><br>
+          Fl Lt for HOD
+          </p>
+          </div>
