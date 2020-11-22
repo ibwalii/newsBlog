@@ -1,0 +1,2 @@
+# newsBlog
+AFIT News Blog
